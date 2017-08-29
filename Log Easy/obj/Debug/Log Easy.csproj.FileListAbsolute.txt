@@ -1,0 +1,4 @@
+C:\ProjectsNew\Log Easy\Log Easy\bin\Debug\Log Easy.dll
+C:\ProjectsNew\Log Easy\Log Easy\bin\Debug\Log Easy.pdb
+C:\ProjectsNew\Log Easy\Log Easy\obj\Debug\Log Easy.dll
+C:\ProjectsNew\Log Easy\Log Easy\obj\Debug\Log Easy.pdb

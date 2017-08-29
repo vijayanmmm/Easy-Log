@@ -1,0 +1,7 @@
+C:\ProjectsNew\Log Easy\Log Easy Tests\bin\Release\Log Easy Tests.dll
+C:\ProjectsNew\Log Easy\Log Easy Tests\bin\Release\Log Easy Tests.pdb
+C:\ProjectsNew\Log Easy\Log Easy Tests\bin\Release\Log Easy.dll
+C:\ProjectsNew\Log Easy\Log Easy Tests\bin\Release\Log Easy.pdb
+C:\ProjectsNew\Log Easy\Log Easy Tests\obj\Release\Log Easy Tests.csprojResolveAssemblyReference.cache
+C:\ProjectsNew\Log Easy\Log Easy Tests\obj\Release\Log Easy Tests.dll
+C:\ProjectsNew\Log Easy\Log Easy Tests\obj\Release\Log Easy Tests.pdb
