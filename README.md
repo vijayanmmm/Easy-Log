@@ -3,13 +3,13 @@ This project is for logging in the files. it supports multiple data type to log 
 # Nuget Pacakge
 This is available as the nuget package, search "Log.Easy" in the nuget package manager.
 # Sample code
-##Log a string
+## Log a string
             //initialize
             clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "\\log\\log" + DateTime.Now.ToString("yyyyMMdd") + ".txt",10);
             //Log simple string
             m_logger.Info("Going to process the step1");
             
-##Log a datatable
+## Log a datatable
             //initialize
             clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "\\log\\log" + DateTime.Now.ToString("yyyyMMdd") + ".txt", 10);
             //datatable 
