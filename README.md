@@ -5,10 +5,9 @@ This is available as the nuget package, search "Log.Easy" in the nuget package m
 # Sample code
 ## Log a string
 
-            //initialize
-            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "\\log\\log" + DateTime.Now.ToString("yyyyMMdd") + ".txt",10);
-            //Log simple string
-            m_logger.Info("Going to process the step1");
+       //initialize
+        clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "\\log\\log" + DateTime.Now.ToString("yyyyMMdd") + ".txt", 10);
+
          
 ## Log a datatable
 
