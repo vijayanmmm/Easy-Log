@@ -4,13 +4,13 @@ This project is for logging in the files. it supports multiple data type to log 
 This is available as the nuget package, search "Log.Easy" in the nuget package manager.
 # Sample code
             //initialize
-            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "/log/log" + DateTime.Now.Date.ToString() + ".txt",10);
+            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "\\log\\log" + DateTime.Now.ToString("yyyyMMdd") + ".txt",10);
             //Log simple string
             m_logger.Info("Going to process the step1");
             
 # Log a datatable
             //initialize
-            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "/log/log" + DateTime.Now.Date.ToString() + ".txt", 10);
+            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "\\log\\log" + DateTime.Now.ToString("yyyyMMdd") + ".txt", 10);
             //datatable 
             DataTable dtTable = new DataTable();
             dtTable.Columns.Add("ID");
@@ -21,14 +21,14 @@ This is available as the nuget package, search "Log.Easy" in the nuget package m
             m_logger.Info(dtTable);
 # Log a datetime
             //initialize
-            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "/log/log" + DateTime.Now.Date.ToString() + ".txt", 10);
+            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "\\log\\log" + DateTime.Now.ToString("yyyyMMdd") + ".txt", 10);
             //Datetime variable
             DateTime dtTem = DateTime.Now;
             //Log
             m_logger.Info(dtTem);
 # Log a integer
             //initialize
-            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "/log/log" + DateTime.Now.Date.ToString() + ".txt", 10);
+            clsLogger m_logger = new clsLogger(Environment.CurrentDirectory + "\\log\\log" + DateTime.Now.ToString("yyyyMMdd") + ".txt", 10);
             //Datetime variable
             int intIndex = 456;
             //Log
