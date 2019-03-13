@@ -41,3 +41,9 @@ This is available as the nuget package, search "Log.Easy" in the nuget package m
 
 # why the parameter "intTimeLog_InterVal_Mins" 
 This is to add the time stamp in the log file automatically. based on the interval time you have passed as parameter, it will add the time stamp in the log file. (This interval will be checked and added time stamp at the time of new log is been added)
+
+
+
+
+# Contributions 
+Contributions are welcome, Good Day!!!
